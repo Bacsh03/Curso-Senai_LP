@@ -7,7 +7,7 @@ limpar_terminal()
 
 '''
 Atividade de Logica de Programação feito a mão em uma folha. 
-Aqui estará a correção do codigo feito a mão.
+Aqui estará a verificação e correção do codigo feito a mão.
 
 Exercício 1 - Uma empresa precisa pagar 10% de imposto sobre seu faturamento como ISS. Além disso, sobre o lucro da empresa, ela precisa pagar 20% de IR e 5% de CSLL. Qual o total de imposto a ser pago em um mês que a empresa tenha R$ 5000 de faturamento e R$ 1000 de lucro?
 
