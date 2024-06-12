@@ -175,7 +175,7 @@ BtPonto.place(x = 150, y = 375)
 BtIgual = Button(calculadora, text='=', relief=FLAT, width=7, height=2, font=('OCR A Extended', 14), bg='#1c3655', fg='#ffffff', command=igual)
 BtIgual.place(x = 250, y = 375)
 
-BtDivisao = Button(calculadora, text='/', relief=FLAT, width=7, height=2, font=('OCR A Extended', 14), bg='#1c3655', fg='#ffffff', command=divisao)
+BtDivisao = Button(calculadora, text='÷', relief=FLAT, width=7, height=2, font=('OCR A Extended', 14), bg='#1c3655', fg='#ffffff', command=divisao)
 BtDivisao.place(x = 350, y = 150)
 
 BtMultiplicacao = Button(calculadora, text='*', relief=FLAT, width=7, height=2, font=('OCR A Extended', 14), bg='#1c3655', fg='#ffffff', command=multiplicacao)
